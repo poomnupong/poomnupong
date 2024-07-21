@@ -14,4 +14,4 @@
 
 ## Azure
 
-- [Common Azure Testbed #01 - hub and spoke with deployment pipeline](/poomnupong/azure-cat01)
+- [Common Azure Testbed #01 - hub and spoke with deployment pipeline](https://github.com/poomnupong/azure-cat01)
