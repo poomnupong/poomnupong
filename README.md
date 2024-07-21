@@ -15,3 +15,8 @@
 ## Azure
 
 - [Common Azure Testbed #01 - hub and spoke with deployment pipeline](https://github.com/poomnupong/azure-cat01)
+
+
+## Github stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=poomnupong&show_icons=true)  
