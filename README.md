@@ -15,7 +15,7 @@
 ## Azure
 
 - [Common Azure Testbed #01 - hub and spoke with deployment pipeline](https://github.com/poomnupong/azure-cat01)
-
+- [Terraform code to set up OpenID Connect between Entra ID and Github Actions](https://github.com/poomnupong/tf-az-ghactions-oidc)
 
 ## Github stats
 
