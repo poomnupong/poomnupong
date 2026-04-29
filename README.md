@@ -7,6 +7,10 @@
 🔒 Perimeter security and related topics  
 🇺🇸 🇯🇵 🇹🇭  
 
+## Linux
+
+- [NixOS Azure image builder](https://github.com/poomnupong/nixos-azimage-builder)
+
 ## Azure Networking
 
 - [Skytap networking overview](https://github.com/poomnupong/azure-networking/blob/main/001-skytap-networking-overview)
