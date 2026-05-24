@@ -10,6 +10,7 @@
 ## Linux
 
 - [NixOS Azure image builder](https://github.com/poomnupong/nixos-azimage-builder)
+- [One-command Apple silicon agent dev box](https://github.com/poomnupong/mac-nix-agent)
 
 ## Azure Networking
 
