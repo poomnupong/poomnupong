@@ -4,7 +4,7 @@
 ☁️ Azure infrastructure, networking, and the long road from datacenter to edge  
 🧊 NixOS & nix-darwin on everything I own — laptop, home lab, Azure images  
 🤖 Local LLMs on Apple Silicon (MLX / oMLX) wired to agentic coding workflows  
-🛠️ Copilot CLI, GitHub Actions — automation as a first language  
+🛠️ Copilot, Copilot CLI, GitHub Actions, automation as a first language  
 🌏 Based in Dallas, frequently somewhere over the Pacific  
 🇺🇸 🇯🇵 🇹🇭  
 
