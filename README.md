@@ -27,7 +27,7 @@ And lastly: *the world has no border, and none of us has a limit.*. I contribute
 ## Development on Linux & Mac
 
 - 🧪 **[`mac-nix-agent`](https://github.com/poomnupong/mac-nix-agent)** — a one-command, nix-darwin recipe that turns a fresh Apple Silicon Mac into a self-contained AI workstation: oMLX for local MLX inference, Hermes Agent in an Apple container microVM, everything reproducible, zero cloud dependency by default but optional burstable.
-- 🧱 **[`nixos-azimage-builder`]([https://github.com/poomnupong](https://github.com/poomnupong/nixos-azimage-builder))** — declaratively built NixOS VHDs for Azure, with smoke tests gating promotion through tiers. While having golden image is not how NixOS deployment works - this is more of a proof of concept of how NixOS image building automation would work.
+- 🧱 **[`nixos-azimage-builder`](https://github.com/poomnupong/nixos-azimage-builder)** — declaratively built NixOS VHDs for Azure, with smoke tests gating promotion through tiers. While having golden image is not how NixOS deployment works - this is more of a proof of concept of how NixOS image building automation would work.
 
 ## Azure / Azure Networking notes from previous role
 
