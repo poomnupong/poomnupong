@@ -1,12 +1,12 @@
 ## Intro
 
-💼 Client Strategist @ Microsoft - manufacturing & automotive
-☁️ Azure infrastructure, networking, and the long road from datacenter to edge
-🧊 NixOS & nix-darwin on everything I own — laptop, home lab, Azure images
-🤖 Local LLMs on Apple Silicon (MLX / oMLX) wired to agentic coding workflows
-🛠️ Copilot CLI, GitHub Actions — automation as a first language
-🌏 Based in Dallas, frequently somewhere over the Pacific
-🇺🇸 🇯🇵 🇹🇭
+💼 Client Strategist @ Microsoft - manufacturing & automotive  
+☁️ Azure infrastructure, networking, and the long road from datacenter to edge  
+🧊 NixOS & nix-darwin on everything I own — laptop, home lab, Azure images  
+🤖 Local LLMs on Apple Silicon (MLX / oMLX) wired to agentic coding workflows  
+🛠️ Copilot CLI, GitHub Actions — automation as a first language  
+🌏 Based in Dallas, frequently somewhere over the Pacific  
+🇺🇸 🇯🇵 🇹🇭  
 
 ---
 
@@ -36,11 +36,6 @@ And lastly: *the world has no border, and none of us has a limit.*. I contribute
 - [Common Azure Testbed #01 - hub and spoke with deployment pipeline](https://github.com/poomnupong/azure-cat01)
 - [Terraform code to set up OpenID Connect between Entra ID and Github Actions](https://github.com/poomnupong/tf-az-ghactions-oidc)
 
-## Github stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poomnupong)](https://github.com/anuraghazra/github-readme-stats)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=poomnupong&show_icons=true)  
-
 ---
 
 ### Where I'm heading
@@ -60,3 +55,9 @@ And lastly: *the world has no border, and none of us has a limit.*. I contribute
 
 *Opinions are my own. Repos are my playground. Everything here is built to be re-built.*
 
+---
+
+## Github stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poomnupong)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=poomnupong&show_icons=true)  
